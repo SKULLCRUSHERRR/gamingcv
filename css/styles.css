@@ -100,8 +100,14 @@ h3
   height: 200px;
 }
 
-.skill-row{
+.skill-row1{
   width: 50%;
+  position: relative;
+  margin: 100px auto;
+  text-align: left;
+}
+.skill-row2{
+  width: 70%;
   position: relative;
   margin: 100px auto;
   text-align: left;
@@ -125,7 +131,6 @@ h3
 
   margin:auto;
 }
-
 
 .profile_pic{
   margin-top: 30px;
